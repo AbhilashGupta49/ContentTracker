@@ -40,7 +40,7 @@ Content Tracker helps them capture all of your content at a single place.
 
 ## Roadmap
 
-## Design Mock-Ups
+## Design Wireframes
 
 1. [Sign Up]()
 2. [Login]()
