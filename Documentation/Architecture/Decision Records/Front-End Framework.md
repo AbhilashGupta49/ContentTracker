@@ -40,6 +40,7 @@ Angular is a framework that I have not used in a long time (last used version wa
 1. Angular is the framework that I am going to be using soon for a work project, so I prefer to use Angular in this project to learn basics.
 2. According to React's website - Next.js, Remix or Gatsby should be used for production usage of React, which implies that the back-end has to be written in JS too,
 which I am not very keen to use for back-end development at this moment.
+3. For this project's use case, I would be using Angular because of nothing other than personal preference.
 
 ### Implications
 There would be a steep learning curve as I have not used Angular since a very long time. I have to be cognizant of the fact that switching to React will
