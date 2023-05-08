@@ -17,9 +17,9 @@
 ## Architectural Decisions
 
 1. [Wireframe Creation Tool](/Documentation/Architecture/Decision%20Records/Wireframe%20Creation%20Tool.md)
-2. [Authentication]()
-3. [Front-End Framework](/Documentation/Architecture/Decision%20Records/Front-End%20Framework.md)
-4. [Back-End Language]()
-5. [CI/CD]()
-6. [Database]()
+2. [Front-End Framework](/Documentation/Architecture/Decision%20Records/Front-End%20Framework.md)
+3. [Back-End Language and Framework]()
+4. [CI/CD]()
+5. [Database]()
+6. [Authentication]()
 7. [Hosting]()
