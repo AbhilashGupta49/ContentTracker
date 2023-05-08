@@ -38,7 +38,7 @@ FastAPI has also been easy to use as per my limited experience with it.
 
 ### Arguments
 
-1. I will be using Java with SpringBoot to gain knowledge about the newer versions of both Java and SpringBoot. Selection is based on personal preference.
+1. I will be using Java with SpringBoot to gain knowledge about the newer versions of both Java and SpringBoot. Selection is based on nothing other than personal preference.
 
 ### Implications
 There should not be any significant learning curve for me to start using Java with SpringBoot because of familiarity. Once I start using it, changing to another language and framework will 
