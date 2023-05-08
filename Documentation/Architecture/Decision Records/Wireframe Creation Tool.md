@@ -47,14 +47,13 @@ useful icons.
 ### Arguments
 
 1. Not considering **InVision** because it was not very intuitive to use on my first attempt. Also, it feels like a
-   subset
-   of Figma from capabilities perspective.
+   subset of Figma from capabilities perspective.
 2. Not considering **Draw.io**. Although it was the easiest to use and most intuitive tool out of all the tools I
    explored, it still felt like it had fewer options and was less powerful than the other tools.
 3. Will be using **Figma** because it was intuitive and easy to use and the most powerful tool with many options. Also,
    since it is one of the most popular tool use for creating wireframes, I feel that it would be really useful to learn
-   how to
-   properly use it from gaining a personal skill perspective, and creating wireframes from the project's perspective.
+   how to properly use it from gaining a personal skill perspective, and creating wireframes from the project's
+   perspective.
 
 ### Implications
 
